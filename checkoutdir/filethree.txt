@@ -1,1 +1,2 @@
 Git is easy to learn
+And easy to understand
