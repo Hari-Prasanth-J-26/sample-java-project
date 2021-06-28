@@ -1,2 +1,3 @@
 Git is easy to learn
 And easy to understand
+Many IT companies use Git and GitHub
