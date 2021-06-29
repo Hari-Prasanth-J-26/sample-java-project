@@ -1,0 +1,2 @@
+This is new file in master branch 
+I am going to use git pull command in my local repository
