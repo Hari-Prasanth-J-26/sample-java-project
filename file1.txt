@@ -1,4 +1,4 @@
 Line-1 : Hello all
-Line-2 : Welcome to git
+Line-2 : Welcome to git and git bash
 Line-3 : It is easy to everyone
 
